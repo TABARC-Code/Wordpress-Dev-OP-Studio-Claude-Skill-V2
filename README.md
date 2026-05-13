@@ -1,6 +1,11 @@
 # Wordpress-Dev-OP-Studio-Claude-Skill-V2
 **WordPress Studio** is a specialist development skill for production-grade WordPress work: themes, plugins, Gutenberg blocks, WooCommerce features, REST API endpoints, Full Site Editing, deployment workflows, accessibility, and the usual pile of hooks, filters, nonces, escaping, and mildly suspicious legacy decisions.
 
+## Note:
+| This is enough of a rebuild that its a fully new thing. So while both work well, its ths one that has more potential. It was an austistic thing. 
+i got obsessed.
+
+
 ---
 
 # WordPress Studio
